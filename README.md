@@ -1,3 +1,3 @@
 # ScreenShare
 一个用ReplayKit2实现的屏幕共享demo，使用局域网socket连接将app extension的数据传到另一台设备上渲染出来。
-本人测试iPhone13pm作为投送屏幕的一方时很卡，作为接收方效果还可以，效果最好的组合是iPadpro和M1mac 影响的原因还在研究中
+
